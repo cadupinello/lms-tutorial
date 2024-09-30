@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@clerk/nextjs": "^4.17.0",
     "@radix-ui/react-slot": "^1.1.0",
     "@types/node": "22.7.4",
     "@types/react": "18.3.10",
@@ -19,7 +20,7 @@
     "eslint": "8.57.1",
     "eslint-config-next": "14.2.12",
     "lucide-react": "^0.446.0",
-    "next": "13.4.12",
+    "next": "13.5.4",
     "postcss": "8.4.47",
     "react": "18.3.1",
     "react-dom": "18.3.1",
